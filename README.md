@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Heyo buds!
+
+Just the usual nerd here trying to learn how to code.
+lol so lame lmao
